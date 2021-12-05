@@ -4,4 +4,4 @@ This is the repository for the CS 305 Module 5 assignment, where students will c
 The license used for this repository is the GNU General Public License v3.0, which allows all public usage of the repository, except closed source ditribution is not allowed.
 
 ## Cade Sutter
-### We will be working together and create projects using github.  Making errors and learning is our first step.
+### We will be using Github for our future projects.  We will learn my making errors and correcting them.
